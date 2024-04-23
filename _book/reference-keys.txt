@@ -1,0 +1,7 @@
+fig:nice-fig
+tab:nice-tab
+prerequisites
+intro
+literature
+inicio
+base-de-datos
